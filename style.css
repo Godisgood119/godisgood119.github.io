@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+head {
+    height: 50vh;
+    background-color: lightcoral;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+section {
+    height: 50vh;
+    background-color: #eee;
+    color: lightcoral;
+    font-size: 56px;
+    letter-spacing: -0.4px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
